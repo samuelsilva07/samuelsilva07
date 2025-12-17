@@ -1,10 +1,12 @@
-## Hi there 👋
+## Seja bem-vindo! 💻
+<p>Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro <strong>(UFRRJ)</strong> e também um apaixonado por tecnologia!</p>
+<br>
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samuelsilva07&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFAA00&ring_color=0000FF"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsilva07&show_icons=true&bg_color=000000&title_color=FFAA00&text_color=FFFFFF&layout=compact"/>
+</div>
 
 <!--
-**samuelsilva07/samuelsilva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
