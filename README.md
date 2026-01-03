@@ -1,9 +1,10 @@
-## Seja bem-vindo! 💻
+# Seja bem-vindo! 💻
+## 👨🏾‍💻 Sobre mim 
 <p>Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro <strong>(UFRRJ)</strong> e também um apaixonado por tecnologia!</p>
 <br>
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=samuelsilva07&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFAA00&ring_color=0000FF"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsilva07&show_icons=true&bg_color=000000&title_color=FFAA00&text_color=FFFFFF&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/>
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
 </div>
 
 <!--
