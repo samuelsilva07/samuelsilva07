@@ -18,7 +18,7 @@
 
 ## 📊 Minhas estatísticas
 <div>
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/> <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
 </div>
 
 <!--
