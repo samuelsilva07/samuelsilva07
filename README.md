@@ -17,9 +17,9 @@
 <br>
 
 ## 📊 Minhas estatísticas
-
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+<div>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/> <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+</div>
 
 <!--
 ## Tecnologias
@@ -35,9 +35,6 @@
 <a href="https://www.linkedin.com/in/samuel-silva-29931235b">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?logo=linkedin&logoColor=white&style=flat)</a>
 
 ### Obrigado por visitar meu perfil! 😀
-
----
-
 
 <!--
 - 🔭 I’m currently working on ...
