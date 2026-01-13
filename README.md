@@ -1,6 +1,8 @@
 # Seja bem-vindo! 👋
 ## 👨🏾‍💻 Sobre mim 
-<p>Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro <strong>(UFRRJ)</strong> e também um apaixonado por computação e por resolver problemas reais através dela. Atualmente, estou em busca da minha experiência inicial como estagiário em <strong>Ciência de Dados</strong> para aplicar meus fundamentos, aprimorar meus conhecimentos no área e entender melhor o mercado da tecnologia.</p>
+<p>Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro <strong>(UFRRJ)</strong> e também um apaixonado por computação e por resolver problemas reais através dela.</p> 
+
+<p> Atualmente, estou em busca da minha experiência inicial como estagiário em <strong>Ciência de Dados</strong> para aplicar meus fundamentos, aprimorar meus conhecimentos no área e entender melhor o mercado da tecnologia.</p>
 <br>
 
 ## 💡 Minhas habilidades
@@ -18,7 +20,7 @@
 
 ## 📊 Minhas estatísticas
 <div>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=AA00FF"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=00CC66"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
 </div>
 
 <!--
