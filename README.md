@@ -1,7 +1,7 @@
 # Seja bem-vindo! 👋
 
 ## 👨🏾‍💻 Sobre mim 
-Meu nome é Samuel Silva, sou um estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**, atualmente no 3º período. Além disso, também sou apaixonado por computação e por resolver problemas reais através dela.
+Meu nome é Samuel Silva, sou um estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**, atualmente no 3º período. Além disso, também sou apaixonado por programação e por resolver problemas reais através dela.
 
 Estou em busca da minha experiência inicial como estagiário como **Analista de Dados** para aplicar meus fundamentos, aprimorar meus conhecimentos na área e entender melhor a importância dos dados em diversos setores do mercado.
 
@@ -15,7 +15,7 @@ Estou em busca da minha experiência inicial como estagiário como **Analista de
 
 Atualmente, meu principal objetivo é dominar as técnicas de **Estatística, Visualização e Análise de Dados** utilizando Python, através do estudo das bibliotecas Pandas, Numpy, Matplotlib, entre outras. Estou trabalhando em **projetos pessoais** para aprimorar esses conhecimentos e entender na prática como trabalhar com diversos tipos de dados de modo eficiente.
 
-Além disso, tenho grande interesse em entender o papel dos dados na sociedade e como obter insights valiosos através deles. Por essa razão, busco entrar na área como estagiário para ingressar no mercado de trabalho, buscar o crescimento profissional mútuo com meus colegas e aprender mais sobre esse campo do conhecimento.
+Além disso, tenho grande interesse em entender o valor dos dados para a sociedade e como obter insights valiosos através deles. Por essa razão, busco entrar na área como estagiário para ingressar no mercado de trabalho, buscar o crescimento profissional mútuo com meus colegas e aprender mais sobre esse campo do conhecimento.
 
 ## 📊 Minhas estatísticas
 
