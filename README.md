@@ -1,26 +1,38 @@
 # Seja bem-vindo! 👋
 
 ## 👨🏾‍💻 Sobre mim 
-Meu nome é Samuel Silva, sou um estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**, atualmente no 3º período. Além disso, também sou apaixonado por programação e por resolver problemas reais através dela.
+Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**, atualmente no 3º período. Além disso, também sou apaixonado por programação e por resolver problemas reais através dela.
 
-Estou em busca da minha experiência inicial como **Analista de Dados** para aplicar meus fundamentos, aprimorar meus conhecimentos na área e entender melhor a importância dos dados em diversos setores do mercado.
+<!--Estou em busca da minha experiência inicial como **Analista de Dados** para aplicar meus fundamentos, aprimorar meus conhecimentos na área e entender melhor a importância dos dados em diversos setores do mercado. -->
 
-## 💡 Minhas habilidades
+Durante meu aprendizado, desenvolvi aplicações voltadas para vários setores da computação, com destaque para **Desenvolvimento Web**, **Estruturas de Dados**, **Desenvolvimento de Software** e **Ciência de Dados**. Além disso, sempre busco aprender mais sobre as diversas possibilidades na área de tecnologia e ampliar ainda mais meus conhecimentos.
 
-- **Desenvolvimento web:** Possuo experiência com criação de sites utilizando **HTML5** e **CSS3**, com foco na criação de interfaces responsivas e funcionais.
-- **Linguagem C:** Tenho uma boa familiaridade com a linguagem C, que me auxiliou a entender conceitos fundamentais como **algoritmos, lógica de programação e estrutura de dados.**
-- **Python**: Atualmente estou aprofundando meus conhecimentos em Python com o objetivo de solucionar **problemas complexos**, utilizando linguagens de alto nível.
+Todos os meus projetos pessoais estão nesta página, sinta-se a vontade para explorá-los! Além disso, estou sempre aberto para feedbacks e colaborações 😀
 
-## 🎯 Foco atual: Ciência de Dados e IA
+## 💡 Linguagens/Tecnologias
+
+<div>
+  <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35/>
+  <img alt="logo-jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height=35/>         
+  <img alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=35/>          
+  <img alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=35/>
+  <img alt="logo-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=35/>  
+  <img alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=35/>
+  <img alt="logo-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=35/>
+  <img alt="logo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=35/>
+          
+</div>
+
+<!-- ## 🎯 Foco atual: Ciência de Dados e IA
 
 Atualmente, meu principal objetivo é dominar as técnicas de **Estatística, Visualização e Análise de Dados** utilizando Python, através do estudo das bibliotecas Pandas, Numpy, Matplotlib, entre outras. Estou trabalhando em **projetos pessoais** para aprimorar esses conhecimentos e entender na prática como trabalhar com diversos tipos de dados de modo eficiente.
 
-Além disso, tenho grande interesse em entender o valor dos dados para a sociedade e como obter insights valiosos através deles. Por essa razão, busco entrar na área como estagiário para ingressar no mercado de trabalho, buscar o crescimento profissional mútuo com meus colegas e aprender mais sobre esse campo do conhecimento.
+Além disso, tenho grande interesse em entender o valor dos dados para a sociedade e como obter insights valiosos através deles. Por essa razão, busco entrar na área como estagiário para ingressar no mercado de trabalho, buscar o crescimento profissional mútuo com meus colegas e aprender mais sobre esse campo do conhecimento. -->
 
 ## 📊 Minhas estatísticas
 
 <div>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=22AAFF&ring_color=00CC66"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=0088FF&ring_color=00CC66"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
 </div>
 
 <!--
@@ -33,7 +45,7 @@ Além disso, tenho grande interesse em entender o valor dos dados para a socieda
 -->
 
 ## ✉️ Converse comigo!
-<a href="mailto:samuel110407@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-F05032?logo=gmail&logoColor=white&style=flat)</a>
-<a href="https://www.linkedin.com/in/samuel-silva-29931235b">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?logo=linkedin&logoColor=white&style=flat)</a>
+<a href="mailto:samuel110407@gmail.com"><img alt="icon-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/samuel-silva-29931235b"><img alt="icon-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Obrigado por visitar meu perfil! 😀
+### Obrigado por visitar meu perfil! ⭐
