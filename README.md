@@ -12,8 +12,7 @@ Todos os meus projetos pessoais estão nesta página, sinta-se a vontade para ex
 ## 💡 Linguagens/Tecnologias
 
 <div>
-  <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35/>
-  <img alt="logo-jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height=35/>         
+  <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35/>        
   <img alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=35/>          
   <img alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=35/>
   <img alt="logo-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=35/>  
@@ -23,11 +22,11 @@ Todos os meus projetos pessoais estão nesta página, sinta-se a vontade para ex
           
 </div>
 
-<!-- ## 🎯 Foco atual: Ciência de Dados e IA
+<!-- ## 🎯 Foco atual: Engenharia de Software
 
-Atualmente, meu principal objetivo é dominar as técnicas de **Estatística, Visualização e Análise de Dados** utilizando Python, através do estudo das bibliotecas Pandas, Numpy, Matplotlib, entre outras. Estou trabalhando em **projetos pessoais** para aprimorar esses conhecimentos e entender na prática como trabalhar com diversos tipos de dados de modo eficiente.
+... 
 
-Além disso, tenho grande interesse em entender o valor dos dados para a sociedade e como obter insights valiosos através deles. Por essa razão, busco entrar na área como estagiário para ingressar no mercado de trabalho, buscar o crescimento profissional mútuo com meus colegas e aprender mais sobre esse campo do conhecimento. -->
+-->
 
 ## 📊 Minhas estatísticas
 
