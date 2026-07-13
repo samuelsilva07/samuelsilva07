@@ -9,7 +9,7 @@ Durante meu aprendizado, desenvolvi aplicações voltadas para vários setores d
 
 ## 🎯 Foco atual: Engenharia de Software
 
-Atualmente, busco aprofundar meus conhecimentos em **Arquitetura de Software**, Design Patterns e Orientação a Objetos utilizando **Java**, com o objetivo de gerar soluções eficientes para necessidades do mundo real. Meu objetivo principal é seguir carreira neste ramo e trocar experiências sobre o processo de desenvolvimento, para que eu cresça como profissional e também como programador.
+Atualmente, busco aprofundar meus conhecimentos em **Desenvolvimento de Software**, Design Patterns e Orientação a Objetos utilizando **Java**, com o objetivo de gerar soluções eficientes para necessidades do mundo real. Meu objetivo principal é seguir carreira neste ramo e trocar experiências sobre o processo de desenvolvimento, para que eu cresça como profissional e também como programador.
 
 ## 💡 Linguagens/Tecnologias
 
