@@ -5,8 +5,6 @@ Olá! Meu nome é Samuel Silva, estudante do 4º período de Ciência da Computa
 
 Ao longo da minha trajetória acadêmica, desenvolvi projetos práticos em setores fundamentais da Computação, com destaque para **Desenvolvimento Web** (HTML, CSS, JavaScript), **Análise de Dados** (Python, NumPy, Pandas, Matplotlib) e **Estruturas de Dados/Sistemas** (C, Python, Java e UML).
 
-Durante meu aprendizado, desenvolvi aplicações voltadas para vários setores da computação, com destaque para **Desenvolvimento Web**, **Estruturas de Dados**, **Desenvolvimento de Software** e **Ciência de Dados**. Além disso, sempre busco aprender mais sobre as diversas possibilidades na área de tecnologia e ampliar ainda mais meus conhecimentos.
-
 ## 🎯 Foco atual: Engenharia de Software
 
 Atualmente, foco meus estudos no aprimoramento em **Desenvolvimento de Software**, aprofundando-me em **Orientação a Objetos**, **Design Patterns** e no ecossistema **Java**. Meu objetivo profissional é unir essa base acadêmica sólida com oportunidades de mercado, contribuíndo em projetos desafiadores e gerando soluções eficientes para o mundo real.
