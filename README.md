@@ -1,4 +1,4 @@
-x# Seja bem-vindo! 👋
+# Seja bem-vindo! 👋
 
 ## 👨🏾‍💻 Sobre mim 
 Olá! Meu nome é Samuel Silva, e sou estudante do 4º período de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**. Ademais, sou movido pela resolução de problemas reais através de códigos bem estruturados e eficientes.
