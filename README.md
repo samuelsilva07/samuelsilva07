@@ -1,15 +1,15 @@
-# Seja bem-vindo! 👋
+x# Seja bem-vindo! 👋
 
 ## 👨🏾‍💻 Sobre mim 
-Meu nome é Samuel Silva, sou estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**, atualmente no 3º período. Além disso, também sou apaixonado por programação e por resolver problemas reais através dela.
+Olá! Meu nome é Samuel Silva, estudante do 4º período de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**. Ademais, sou movido pela resolução de problemas reais através de códigos bem estruturados e eficientes.
 
-<!--Estou em busca da minha experiência inicial como **Analista de Dados** para aplicar meus fundamentos, aprimorar meus conhecimentos na área e entender melhor a importância dos dados em diversos setores do mercado. -->
+Ao longo da minha trajetória acadêmica, desenvolvi projetos práticos em setores fundamentais da Computação, com destaque para **Desenvolvimento Web** (HTML, CSS, JavaScript), **Análise de Dados** (Python, NumPy, Pandas, Matplotlib) e **Estruturas de Dados/Sistemas** (C, Python, Java e UML).
 
 Durante meu aprendizado, desenvolvi aplicações voltadas para vários setores da computação, com destaque para **Desenvolvimento Web**, **Estruturas de Dados**, **Desenvolvimento de Software** e **Ciência de Dados**. Além disso, sempre busco aprender mais sobre as diversas possibilidades na área de tecnologia e ampliar ainda mais meus conhecimentos.
 
 ## 🎯 Foco atual: Engenharia de Software
 
-Atualmente, busco aprofundar meus conhecimentos em **Desenvolvimento de Software**, Design Patterns e Orientação a Objetos utilizando **Java**, com o objetivo de gerar soluções eficientes para necessidades do mundo real. Meu objetivo principal é seguir carreira neste ramo e trocar experiências sobre o processo de desenvolvimento, para que eu cresça como profissional e também como programador.
+Atualmente, foco meus estudos no aprimoramento em **Desenvolvimento de Software**, aprofundando-me em **Orientação a Objetos**, **Design Patterns** e no ecossistema **Java**. Meu objetivo profissional é unir essa base acadêmica sólida com oportunidades de mercado, contribuíndo em projetos desafiadores e gerando soluções eficientes para o mundo real.
 
 ## 💡 Linguagens/Tecnologias
 
