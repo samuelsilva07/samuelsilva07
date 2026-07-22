@@ -12,13 +12,14 @@ Atualmente, foco meus estudos no aprimoramento em **Desenvolvimento de Software*
 ## 💡 Linguagens/Tecnologias
 
 <div>
-  <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40/>        
-  <img alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=40/>          
-  <img alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=40/>
-  <img alt="logo-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=40/>  
-<img alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40/>
   <img alt="logo-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40/>
   <img alt="logo-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=40/>
+  <img alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40/>
+  <img alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=40/>
+  <img alt="logo-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=40/>  
+  <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40/>        
+  <img alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=40/>          
+  
   <img alt="logo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=40/>
 </div>
 
