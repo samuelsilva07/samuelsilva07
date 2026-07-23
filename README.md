@@ -40,8 +40,8 @@ Atualmente, foco meus estudos no aprimoramento em **Desenvolvimento de Software*
 ## 📊 Minhas estatísticas
 
 <div width="300px">
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&bg_color=00000000&icon_color=0088FF&ring_color=00CC66&border_color=e1e1e1ae"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact&bg_color=00000000&border_color=e1e1e1ae"/>
-  <img height="252em" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelsilva07&theme=github-compact&border_color=e1e1e1ae&title_color=ffffff"/>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&bg_color=161616&icon_color=0088FF&ring_color=00CC66&border_color=e1e1e1ae"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact&bg_color=161616&border_color=e1e1e1ae"/>
+  <img height="252em" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelsilva07&theme=github-compact&bg_color=161616&border_color=e1e1e1ae&title_color=ffffff"/>
 </div>
 
 ## ✉️ Converse comigo!
