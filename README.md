@@ -20,24 +20,28 @@ Atualmente, foco meus estudos no aprimoramento em **Desenvolvimento de Software*
   <img alt="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40/>
 
   ### Desenvolvimento de Software
+  
   <img alt="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=40/>
   <img alt="logo-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=40/>  
   <img alt="logo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=40/>        
   <img alt="logo-uml" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-plain.svg" height=40/>          
 
   ### Análise de Dados
+  
   <img alt="logo-pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=40/>  
   <img alt="logo-numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height=40/>
   <img alt="logo-matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" height=40/>
 
   ### Ferramentas
+  
   <img alt="logo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=40/>
 </div>
 
 ## 📊 Minhas estatísticas
 
-<div>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&&icon_color=0088FF&ring_color=00CC66"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact"/>
+<div width="300px">
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=samuelsilva07&show_icons=true&theme=dark&bg_color=00000000&icon_color=0088FF&ring_color=00CC66&border_color=e1e1e1ae"/> <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samuelsilva07&theme=dark&layout=compact&bg_color=00000000&border_color=e1e1e1ae"/>
+  <img height="252em" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelsilva07&theme=github-compact&border_color=e1e1e1ae&title_color=ffffff"/>
 </div>
 
 ## ✉️ Converse comigo!
