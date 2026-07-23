@@ -1,7 +1,7 @@
 # Seja bem-vindo! 👋
 
 ## 👨🏾‍💻 Sobre mim 
-Olá! Meu nome é Samuel Silva, e sou estudante do 4º período de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**. Ademais, sou movido pela resolução de problemas reais através de códigos bem estruturados e eficientes.
+Olá! Meu nome é Samuel Silva, e sou estudante do 4º período de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro **(UFRRJ)**. Além disso, sou movido pela resolução de problemas reais através de códigos bem estruturados e eficientes.
 
 Ao longo da minha trajetória acadêmica, desenvolvi projetos práticos em setores fundamentais da Computação, com destaque para **Desenvolvimento Web** (HTML, CSS, JavaScript), **Análise de Dados** (Python, NumPy, Pandas, Matplotlib) e **Estruturas de Dados/Sistemas** (C, Python, Java e UML).
 
